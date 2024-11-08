@@ -16,8 +16,6 @@ export default defineUserConfig({
   host: '0.0.0.0',
   port: 9451,
   base: '/blog/',
-  temp: '.vscode/.vp-temp',
-  cache: '.vscode/.vp-cache',
   lang: 'zh-CN',
   plugins: [],
 
