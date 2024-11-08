@@ -1,6 +1,7 @@
 ---
 home: true
 layout: BlogHome
+link: https://yuchunmao.github.io/blog/
 icon: home
 title: 首页
 heroImage: /hero.jpeg

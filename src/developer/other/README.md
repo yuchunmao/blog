@@ -7,6 +7,7 @@ tag:
   - 目录
 
 index: false
+order: 999
 
 permalink: /developer/other/
 ---

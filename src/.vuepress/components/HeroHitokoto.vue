@@ -4,7 +4,7 @@ import { useRouter } from 'vue-router';
 import axios from 'axios';
 
 let hitokotoUrl = 'https://v1.hitokoto.cn';
-// let hitokotoUrl = 'https://international.v1.hitokoto.cn'
+let hitokotoUrl2 = 'https://international.v1.hitokoto.cn'
 
 const InsertText = (data) => {
     const Win: any = window;
@@ -100,8 +100,7 @@ const GetWord = (path?) => {
     if (path) {
         toPath = path;
     }
-
-    if (toPath == '/blog/') {
+    if (['/blog/', '/'].includes(toPath)) {
         axios({
             method: 'get',
             url: hitokotoUrl,
@@ -111,8 +110,15 @@ const GetWord = (path?) => {
                 InsertText(response.data);
             })
             .catch((error) => {
-                hitokotoUrl = 'https://international.v1.hitokoto.cn';
-                GetWord();
+                if (hitokotoUrl !== hitokotoUrl2) {
+                    hitokotoUrl = hitokotoUrl2
+                    GetWord();
+                } else {
+                    InsertText({
+                        from: '接口炸了，我随便说两句',
+                        hitokoto: '在那个无限蔓延的城市里，什么都有，可唯独没有尽头。'
+                    })
+                }
             });
     }
 };

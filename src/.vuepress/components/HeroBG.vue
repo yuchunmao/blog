@@ -1,5 +1,6 @@
 <script setup lang="ts">
-import { onMounted } from 'vue';
+import { nextTick, onMounted } from 'vue';
+import { useRouter } from "vue-router";
 
 
 // 设置背景图片
@@ -25,6 +26,14 @@ const setBackgroundImage = () => {
 
 onMounted(() => {
     setBackgroundImage()
+    const router = useRouter();
+    router.afterEach((to) => {
+        nextTick(() => {
+            if (to.fullPath === '/') {
+                setBackgroundImage()
+            }
+        })
+    });
 });
 </script>
 
