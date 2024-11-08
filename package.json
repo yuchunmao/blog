@@ -10,16 +10,18 @@
     "docs:dev": "vuepress-webpack dev src",
     "docs:update-package": "npx vp-update"
   },
-  "devDependencies": {
-    "@vuepress/bundler-webpack": "2.0.0-rc.18",
-    "sass-embedded": "^1.79.5",
-    "vue": "^3.5.12",
-    "vuepress": "2.0.0-rc.18",
-    "vuepress-theme-hope": "2.0.0-rc.59",
-    "sass-loader": "^16.0.2"
-  },
   "dependencies": {
+    "@vuepress/bundler-webpack": "2.0.0-rc.18",
+    "@vuepress/plugin-feed": "^2.0.0-rc.57",
+    "@vuepress/plugin-pwa": "^2.0.0-rc.57",
     "axios": "^1.7.7",
-    "vue-router": "^4.4.5"
+    "echarts": "^5.5.1",
+    "sass-embedded": "^1.79.5",
+    "sass-loader": "^16.0.2",
+    "vue": "^3.5.12",
+    "vue-router": "^4.4.5",
+    "vuepress": "2.0.0-rc.18",
+    "vuepress-plugin-search-pro": "^2.0.0-rc.59",
+    "vuepress-theme-hope": "2.0.0-rc.59"
   }
 }
