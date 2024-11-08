@@ -3,3 +3,6 @@ node_modules/
 src/.vuepress/.cache/
 src/.vuepress/.temp/
 src/.vuepress/dist/
+.vscode/.vp-cache
+.vscode/.vp-temp
+.idea
