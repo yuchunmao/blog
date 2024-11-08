@@ -1,11 +1,9 @@
 ---
-category:
-  - 前端
 tag:
   - 工具
-  - Tips
+  - 工程化
 
-permalink: /developer/front_end_web/npm.html
+permalink: /developer/1Web/Engineering/npm.html
 ---
 
 # npm 常用命令

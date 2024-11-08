@@ -3,12 +3,11 @@ category:
   - 前端
 tag:
   - 工具
-  - Tips
-  - 环境搭建
+  - 工程化
 
 order: -1
 
-permalink: /developer/front_end_web/es6_modules.html
+permalink: /developer/1Web/Engineering/es6_modules.html
 ---
 
 # CommonJS 和 ES6 Modules

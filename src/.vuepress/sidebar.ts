@@ -39,21 +39,13 @@ export const zhSidebar = sidebar({
       children: 'structure',
     },
   ],
-  '/tools/git/': [
-    back_tools,
+  // 工具
+  '/life/': [
+    back_posts,
     {
-      text: 'Git',
-      icon: 'git',
-      link: '/tools/git/',
-      children: 'structure',
-    },
-  ],
-  '/tools/vscode/': [
-    back_tools,
-    {
-      text: 'Visual Studio Code',
-      icon: 'vscode',
-      link: '/tools/vscode/',
+      text: '生活',
+      icon: 'ganwu',
+      link: '/life/',
       children: 'structure',
     },
   ],
@@ -67,25 +59,18 @@ export const zhSidebar = sidebar({
       children: 'structure',
     },
   ],
-  '/developer/front_end_web/': [
+  '/developer/1Web/': [
     back_developer,
     {
       text: 'Web前端',
       icon: 'HTML',
-      link: '/developer/front_end_web/',
+      link: '/developer/1Web/',
       children: 'structure',
     },
   ],
   // 收藏
   '/favorite/': [
     back_posts,
-    {
-      text: '随笔',
-      icon: 'ganwu',
-      children: 'structure',
-      prefix: 'essays/',
-      link: '/favorite/essays/',
-    },
     {
       text: '链接',
       icon: 'link',
@@ -105,13 +90,6 @@ export const zhSidebar = sidebar({
       children: 'structure',
     },
     {
-      text: '收藏',
-      icon: 'favoritea',
-      prefix: 'favorite/',
-      link: '/favorite/',
-      children: 'structure',
-    },
-    {
       text: '开发者',
       icon: 'developer',
       prefix: 'developer/',
@@ -119,10 +97,24 @@ export const zhSidebar = sidebar({
       children: 'structure',
     },
     {
+      text: '生活',
+      icon: 'ganwu',
+      prefix: 'life/',
+      link: '/life/',
+      children: 'structure',
+    },
+    {
       text: '工具',
       icon: 'gongju',
       prefix: 'tools/',
       link: '/tools/',
+      children: 'structure',
+    },
+    {
+      text: '收藏',
+      icon: 'favoritea',
+      prefix: 'favorite/',
+      link: '/favorite/',
       children: 'structure',
     },
     {

@@ -1,12 +1,11 @@
 ---
 icon: ganwu
 pageInfo: ['Author', 'PageView']
-date: 1993-02-13
 index: false
-permalink: /favorite/essays/
+permalink: /life/
 ---
 
-# 随笔
+# 生活
 
 ::: info 日常随便写一点东西
 
@@ -14,7 +13,7 @@ permalink: /favorite/essays/
 
 ---
 
-<Catalog base='/favorite/essays/' />
+<Catalog base='/life/' />
 
 ---
 

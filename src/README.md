@@ -28,9 +28,9 @@ projects:
   link: /tools/
 
 - icon: ganwu
-  name: 随笔
-  desc: 写一些乱七八糟的还没有分类的小作文
-  link: /favorite/essays/
+  name: 生活
+  desc: 写一些生活中的事
+  link: /life/
 
 - icon: youlian
   name: 友情链接

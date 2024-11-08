@@ -101,8 +101,7 @@ const GetWord = (path?) => {
         toPath = path;
     }
 
-    // if (toPath == '/' || toPath == '/en/') {
-    if (toPath == '/') {
+    if (toPath == '/blog/') {
         axios({
             method: 'get',
             url: hitokotoUrl,

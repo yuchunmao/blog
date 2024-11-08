@@ -13,7 +13,7 @@ export default defineUserConfig({
   },
   base: '/blog/',
   lang: 'zh-CN',
-  title: "个人博客",
+  title: "独白",
   description: "鱼的个人博客",
 
   theme,
@@ -21,15 +21,3 @@ export default defineUserConfig({
   shouldPrefetch: false,
 });
 
-// export default defineUserConfig({
-//   base: "/blog/",
-//
-//   lang: "zh-CN",
-//   title: "博客演示",
-//   description: "vuepress-theme-hope 的博客演示",
-//
-//   theme,
-//
-//   // 和 PWA 一起启用
-//   // shouldPrefetch: false,
-// });
