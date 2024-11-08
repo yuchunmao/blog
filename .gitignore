@@ -6,3 +6,4 @@ src/.vuepress/dist/
 .vscode/.vp-cache
 .vscode/.vp-temp
 .idea
+dist
