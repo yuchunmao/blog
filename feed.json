@@ -1,0 +1,239 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "个人博客",
+  "home_page_url": "https://yuchunmao.github.io/blog/",
+  "feed_url": "https://yuchunmao.github.io/blog/feed.json",
+  "description": "鱼的个人博客",
+  "icon": "https://yuchunmao.github.io/blog/hero.jpeg",
+  "favicon": "https://yuchunmao.github.io/blog/hero.jpeg",
+  "items": [
+    {
+      "title": "关于",
+      "url": "https://yuchunmao.github.io/blog/about/",
+      "id": "https://yuchunmao.github.io/blog/about/",
+      "summary": "关于 关于本站 About Some Things",
+      "content_html": "\n<div class=\"hint-container info\">\n<p class=\"hint-container-title\">关于本站</p>\n<p>About Some Things</p>\n</div>\n",
+      "date_published": "2024-11-08T03:35:15.000Z",
+      "date_modified": "2024-11-08T03:35:15.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "关于我",
+      "url": "https://yuchunmao.github.io/blog/about/me.html",
+      "id": "https://yuchunmao.github.io/blog/about/me.html",
+      "summary": "关于我 独白 我叫『独白』，一名菜鸟前端程序员。热爱编程，喜欢拥抱新技术，妄图改变世界，企图让世界因我而美好。 关于爱好 关于理想 愿世界和平，愿所有的种子都能开花结果，愿有情人终成眷属，愿好人一生平安。 但愿望终归只是愿望，我唯一能做的事情就是在目之所及之处做到最好，在自己能力范围之内发挥自己所长帮助更多的人。 关于本站 本站采用 VuePress ...",
+      "content_html": "\n<h2>独白</h2>\n<p>我叫『独白』，一名菜鸟前端程序员。热爱编程，喜欢拥抱新技术，妄图改变世界，企图让世界因我而美好。</p>\n<h2>关于爱好</h2>\n<h2>关于理想</h2>\n<p>愿世界和平，愿所有的种子都能开花结果，愿有情人终成眷属，愿好人一生平安。</p>\n<p>但愿望终归只是愿望，我唯一能做的事情就是在目之所及之处做到最好，在自己能力范围之内发挥自己所长帮助更多的人。</p>\n<h2>关于本站</h2>\n<p>本站采用<br>\n<a href=\"https://v2.vuepress.vuejs.org\" target=\"_blank\" rel=\"noopener noreferrer\">VuePress</a> 搭建，<br>\n基于主题 <a href=\"https://theme-hope.vuejs.press\" target=\"_blank\" rel=\"noopener noreferrer\">ThemeHope</a> 魔改而成。</p>\n<p>关于更多信息可阅读 <a href=\"/blog/about/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99.html\" target=\"_blank\">关于本站</a></p>\n<p>并且还有一些想法，想要表达的思想和观点等。我不太愿意将这些东西公布在各种公众平台之上，但有些话总要有个地方分享、倾诉，所以我选择了这个站点。</p>\n",
+      "image": "https://yuchunmao.github.io/blog/assets/images/cover3.jpg",
+      "date_published": "2024-11-08T03:35:15.000Z",
+      "date_modified": "2024-11-08T03:35:15.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "关于本站",
+      "url": "https://yuchunmao.github.io/blog/about/website.html",
+      "id": "https://yuchunmao.github.io/blog/about/website.html",
+      "summary": "关于本站 在写了在写了",
+      "content_html": "\n<blockquote>\n<p>在写了在写了</p>\n</blockquote>\n",
+      "date_published": "2024-11-08T03:35:15.000Z",
+      "date_modified": "2024-11-08T03:35:15.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "开发者",
+      "url": "https://yuchunmao.github.io/blog/developer/",
+      "id": "https://yuchunmao.github.io/blog/developer/",
+      "summary": "开发者 程序员是世界上最酷的一群人。 记录一些与编程相关的技巧与心得。",
+      "content_html": "\n<div class=\"hint-container info\">\n<p class=\"hint-container-title\">程序员是世界上最酷的一群人。</p>\n<p>记录一些与编程相关的技巧与心得。</p>\n</div>\n",
+      "date_published": "2024-11-08T03:35:15.000Z",
+      "date_modified": "2024-11-08T03:35:15.000Z",
+      "authors": [],
+      "tags": [
+        "developer"
+      ]
+    },
+    {
+      "title": "收藏",
+      "url": "https://yuchunmao.github.io/blog/favorite/",
+      "id": "https://yuchunmao.github.io/blog/favorite/",
+      "summary": "收藏 多媒体网络收藏夹 个人随笔，影视，音乐，相册以及网址链接。",
+      "content_html": "\n<div class=\"hint-container info\">\n<p class=\"hint-container-title\">多媒体网络收藏夹</p>\n<p>个人随笔，影视，音乐，相册以及网址链接。</p>\n</div>\n",
+      "date_published": "1993-02-13T00:00:00.000Z",
+      "date_modified": "2024-11-08T03:35:15.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "站点地图",
+      "url": "https://yuchunmao.github.io/blog/posts/catalog.html",
+      "id": "https://yuchunmao.github.io/blog/posts/catalog.html",
+      "summary": "站点地图 本站全部文章索引",
+      "content_html": "\n<h2>本站全部文章索引</h2>\n",
+      "date_published": "2024-11-08T03:35:15.000Z",
+      "date_modified": "2024-11-08T03:35:15.000Z",
+      "authors": [],
+      "tags": [
+        "博文"
+      ]
+    },
+    {
+      "title": "独白的书单",
+      "url": "https://yuchunmao.github.io/blog/posts/book_list.html",
+      "id": "https://yuchunmao.github.io/blog/posts/book_list.html",
+      "summary": "独白的书单 《 书名 》 是的，这里啥也没有",
+      "content_html": "\n<h2>《 书名 》</h2>\n<blockquote>\n<p>是的，这里啥也没有</p>\n</blockquote>\n",
+      "date_published": "2024-11-08T03:35:15.000Z",
+      "date_modified": "2024-11-08T03:35:15.000Z",
+      "authors": [],
+      "tags": [
+        "博文"
+      ]
+    },
+    {
+      "title": "Markdown 语法",
+      "url": "https://yuchunmao.github.io/blog/posts/3.Markdown%E8%AF%AD%E6%B3%95.html",
+      "id": "https://yuchunmao.github.io/blog/posts/3.Markdown%E8%AF%AD%E6%B3%95.html",
+      "summary": "Markdown 语法 Markdown 官方标准地址: https://markdown.com.cn 前面用数个 # 来标示标题，一个 # 标示一级标题，两个 # 标示二级标题，以此类推。 二级标题 三级标题 四级标题 五级标题 六级标题 段落语法 用空一行进行隔开 不要用空格或者制表符缩进段落 这里是第一段文字。 这里是第二段文字。 这里是第三段...",
+      "content_html": "\n<p>Markdown 官方标准地址:<br>\n<a href=\"https://markdown.com.cn\" target=\"_blank\" rel=\"noopener noreferrer\">https://markdown.com.cn</a></p>\n<blockquote>\n<p>前面用数个 <code>#</code> 来标示标题，一个 <code>#</code> 标示一级标题，两个 <code>#</code> 标示二级标题，以此类推。</p>\n</blockquote>\n<h2>二级标题</h2>\n<h3>三级标题</h3>\n<h4>四级标题</h4>\n<h5>五级标题</h5>\n<h6>六级标题</h6>\n<h2>段落语法</h2>\n<blockquote>\n<p>用空一行进行隔开<br>\n不要用空格或者制表符缩进段落</p>\n</blockquote>\n<p>这里是第一段文字。</p>\n<p>这里是第二段文字。<br>\n这里是第三段文字。<br>\n这里是第四段文字。<br>\n这里是第五段文字。</p>\n<h2>换行语法</h2>\n<blockquote>\n<p>末尾加两个空格即可换行。<br>\n在 VSCode 中一个空格不会被换行。VuePress 中一个空格会被换行。</p>\n</blockquote>\n<p>This is the first line.<br>\nAnd this is the second line.</p>\n<h2>强调语法</h2>\n<blockquote>\n<p>两个星号 <code>**加粗内容**</code> 或者下划线 <code>__加粗粗内容__</code> 标示加粗。<br>\n一个下划线或者下划线标示斜体 <code>_倾斜文本_</code></p>\n</blockquote>\n<p>这是一段话中被 <strong>加粗</strong> 的部分。<br>\n这是一段话中被 <em>倾斜</em> 的的部分。<br>\n这是一段话中 <strong><em>加粗倾斜</em></strong> 的部分。</p>\n<h2>引用语法</h2>\n<blockquote>\n<p>前面加一个大于号 <code>&gt;</code> 表示引用</p>\n</blockquote>\n<blockquote>\n<p>这里是引用的换行 1<br>\n这里是引用的换行 2</p>\n</blockquote>\n<blockquote>\n<p>这里是引用的一段文字</p>\n<p>这里是引用的更换段落，VSCode 中可以明显表示出来，但是 VuePress 中无法体现</p>\n</blockquote>\n<blockquote>\n<p>这里是引用的一段文字</p>\n<blockquote>\n<p>两个大于号标示嵌套引用</p>\n</blockquote>\n</blockquote>\n<blockquote>\n<p>这里是引用的一段文字</p>\n<blockquote>\n<p>引用当中是可以夹带列表的</p>\n<ul>\n<li>asd</li>\n<li>asd</li>\n<li>asd</li>\n</ul>\n<h1>一级标题</h1>\n<h2>二级标题</h2>\n<h3>三级标题</h3>\n</blockquote>\n</blockquote>\n<h2>列表语法</h2>\n<h3>有序列表</h3>\n<blockquote>\n<p>数字带点 <code>1.</code> 标示有序列表</p>\n</blockquote>\n<ol>\n<li>第一行</li>\n<li>第二行</li>\n<li>第三行</li>\n<li>第四行</li>\n</ol>\n<h3>无序列表</h3>\n<blockquote>\n<p>前面使用 <code>-</code> 、<code>*</code> 标示无序列表</p>\n</blockquote>\n<ul>\n<li>第一行</li>\n<li>第二行</li>\n<li>第三行</li>\n<li>第四行</li>\n</ul>\n<h3>列表的嵌套</h3>\n<blockquote>\n<p>前面加一个 Tab 键标示嵌套</p>\n</blockquote>\n<ol>\n<li>第一行有序列表\n<ol>\n<li>嵌套一个有序列表</li>\n</ol>\n<ul>\n<li>嵌套一个无序列表\n<ul>\n<li>嵌套一个无序列表</li>\n</ul>\n<ol>\n<li>嵌套一个有序列表</li>\n<li>嵌套一个有序列表\n<ol>\n<li>嵌套一个有序列表</li>\n</ol>\n</li>\n</ol>\n</li>\n</ul>\n</li>\n<li>第二行有序列表</li>\n</ol>\n<ul>\n<li>第三行无序列表</li>\n</ul>\n<ol start=\"4\">\n<li>第四行有序列表</li>\n</ol>\n<h2>代码语法</h2>\n<blockquote>\n<p>使用反引号 (``) 包裹的部分就是代码语法</p>\n</blockquote>\n<p>JavaScript 的打印日志的方法是<code>console.log('hello world')</code>。</p>\n<p>如果想要创建代码块缩进四个空格</p>\n<pre><code>&lt;html&gt;\n  &lt;head&gt;\n      &lt;title&gt;hello world&lt;/title&gt;\n  &lt;/head&gt;\n  &lt;body&gt;\n      &lt;h1&gt;hello world&lt;/h1&gt;\n  &lt;/body&gt;\n&lt;/html&gt;\n</code></pre>\n<p>也可以使用 围栏代码块</p>\n<div class=\"language-html line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"html\" data-title=\"html\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code><span class=\"line\"><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">&lt;</span><span style=\"--shiki-light:#E45649;--shiki-dark:#E06C75\">html</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">&gt;</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">  &lt;</span><span style=\"--shiki-light:#E45649;--shiki-dark:#E06C75\">head</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">&gt;</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">    &lt;</span><span style=\"--shiki-light:#E45649;--shiki-dark:#E06C75\">title</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">&gt;hello world&lt;/</span><span style=\"--shiki-light:#E45649;--shiki-dark:#E06C75\">title</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">&gt;</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">  &lt;/</span><span style=\"--shiki-light:#E45649;--shiki-dark:#E06C75\">head</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">&gt;</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">  &lt;</span><span style=\"--shiki-light:#E45649;--shiki-dark:#E06C75\">body</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">&gt;</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">    &lt;</span><span style=\"--shiki-light:#E45649;--shiki-dark:#E06C75\">h1</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">&gt;hello world&lt;/</span><span style=\"--shiki-light:#E45649;--shiki-dark:#E06C75\">h1</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">&gt;</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">  &lt;/</span><span style=\"--shiki-light:#E45649;--shiki-dark:#E06C75\">body</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">&gt;</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">&lt;/</span><span style=\"--shiki-light:#E45649;--shiki-dark:#E06C75\">html</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">&gt;</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><h2>分割线语法</h2>\n<blockquote>\n<p>使用多个星号 <code>***</code>、破折号 `</p>\n</blockquote>\n",
+      "date_published": "2024-11-08T03:35:15.000Z",
+      "date_modified": "2024-11-08T03:52:46.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "博文",
+      "url": "https://yuchunmao.github.io/blog/posts/",
+      "id": "https://yuchunmao.github.io/blog/posts/",
+      "summary": "博文 记录一些所思所想",
+      "content_html": "\n<div class=\"hint-container info\">\n<p class=\"hint-container-title\">记录一些所思所想</p>\n</div>\n",
+      "date_published": "2024-11-08T03:35:15.000Z",
+      "date_modified": "2024-11-08T03:35:15.000Z",
+      "authors": [],
+      "tags": [
+        "博文"
+      ]
+    },
+    {
+      "title": "工具分享",
+      "url": "https://yuchunmao.github.io/blog/tools/",
+      "id": "https://yuchunmao.github.io/blog/tools/",
+      "summary": "工具分享 与高手相比，你只是缺一件趁手的兵器而已。 分享和就一些自己平时觉得好用的工具。",
+      "content_html": "\n<div class=\"hint-container info\">\n<p class=\"hint-container-title\">与高手相比，你只是缺一件趁手的兵器而已。</p>\n<p>分享和就一些自己平时觉得好用的工具。</p>\n</div>\n",
+      "date_published": "2024-11-08T03:35:15.000Z",
+      "date_modified": "2024-11-08T03:35:15.000Z",
+      "authors": [],
+      "tags": [
+        "工具"
+      ]
+    },
+    {
+      "title": "uTools",
+      "url": "https://yuchunmao.github.io/blog/tools/uTools.html",
+      "id": "https://yuchunmao.github.io/blog/tools/uTools.html",
+      "summary": "uTools 相见恨晚的 PC 端工具集 当我搞明白这货的使用方法和运行逻辑之后，不仅效率提升了很多，我还卸载了十几个软件。 本文重点 https://open.u-tools.cn/445779.html 基于 nodejs 开发的跨平台工具集合。 横跨 Mac、Windows、Linux 三大平台，设计体验一致。它使得你的工具软件不再零碎。 有了它...",
+      "content_html": "\n<div class=\"hint-container info\">\n<p class=\"hint-container-title\">相见恨晚的 PC 端工具集</p>\n<p>当我搞明白这货的使用方法和运行逻辑之后，不仅效率提升了很多，我还卸载了十几个软件。</p>\n</div>\n<h2>本文重点</h2>\n<p><a href=\"https://open.u-tools.cn/445779.html\" target=\"_blank\" rel=\"noopener noreferrer\">https://open.u-tools.cn/445779.html</a></p>\n<p>基于 nodejs 开发的跨平台工具集合。<br>\n横跨 Mac、Windows、Linux 三大平台，设计体验一致。它使得你的工具软件不再零碎。<br>\n有了它，你的电脑只需要安装必要的核心软件就可以了。</p>\n<h2>一个截屏翻译软件引发惨案</h2>\n<p>在 windows 下有一个神器： <code>有道词典</code><br>\n我少数几个允许开机启动且后台常驻的软件。我的英文阅读水平一般，但我的工作经常会用到各种英文文档，所以翻译工具基本上是必不可少的。我一般都是把文字复制下来然后丢到软件当中去翻译，习惯了之后其实也没啥。但是有些文字是无法被复制的，这个时候是非常不方便的。</p>\n<p>有道词典设置快捷键，直接像截图一样去识别屏幕上的英文语句，然后直接显示翻译结果，极大地提高了我的学习和工作效率。</p>\n<p>但是！Mac 下没有这个功能。。。。</p>\n<p>Mac 下我用的是这个玩意儿</p>\n<p></p>\n<p>还特么花了我 50 大洋，现在想一想，自己真是个大怨种。</p>\n<p>嗯，这货号称 Mac 下最好的截屏翻译工具，也确实好用。但是，它采用的是 Mac 系统<code>快捷指令</code>实现的截屏翻译功能。但是 Mac 的 api 是不允许代理方问的。每次使用我都得关闭代理。。天呐，烦透了，但是没办法。配置其它的访问 api 都存在一定的限制或者费用。但是将就将就又不是不行。</p>\n<p>然后前段时间 B 站发现了一个 UP 主推荐了 <code>uTolls</code>，好奇心驱使下就去下载体验了一下。</p>\n<p></p>\n<p></p>\n<p></p>\n<blockquote>\n<p>注：Mac 和 Windows 体验完全一致</p>\n</blockquote>\n<p>其内部实现了一个叫做 <code>关键字</code> 的调用逻辑，每个插件都可以使用关键字来调用其它的关键字，一个插件可以有多个关键字。所有插件之间都是可以相互进行调用的。</p>\n<p>于是就出现了各种组合，比如：<br>\n<code>截图插件</code> + <code>OCR 识别插件</code> + <code>翻译插件</code> = <strong>截屏翻译功能</strong><br>\n<code>截图插件</code> + <code>二维码解析插件</code> = <strong>扫码功能</strong> (PC 能扫码了，喜极而泣)<br>\n<code>文本提取</code> + <code>网址精灵</code> = <strong>一键收藏网址</strong><br>\n<code>文件提取</code> + <code>PDF转换器</code> = <strong>一键转换 PDF 文件</strong><br>\n<code>文件提取</code> + <code>图片压缩</code> = <strong>一键压缩本地图片</strong><br>\n<code>文件提取</code> + <code>搜索插件</code> = <strong>一键搜索本地文件</strong><br>\n.....</p>\n<p>VSCode 能像如今这般如火如荼，离不开丰富的插件生态，其插件生态丰富是因为它的插件核心语言是 Javascript。<br>\nuTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速，而且 uTools 软件本身磨平了一些系统 API 之间的差异。你编写的插件可以很方便的进行进行系统的各项操作。<br>\n目前 uTools 插件市场 400 + 各类插件，他们组合搭配起来基本上可以<code>[一键]</code>解决你 90%以上的快捷问题。</p>\n<p>自从有了 uTools ，我把电脑上大部分快捷键都取消了，并且卸载了一大票工具类软件。后台只需要运行一个工具类软件，那就是 <code>uTools</code>。</p>\n<p>虽然它的截图功能存在一些问题，但是够用。我们一般使用截图也只是方便标注和发送而已。遇到一些特殊情况的截图，可以搭配使用系统自带的截图使用。关键问题是，一堆 IM 软件和工具不用再相互打架了。节省时间就是延长生命。</p>\n<blockquote>\n<p>截图工具并非 uTools 官方开发所以体验和功能很一般。但是官方开发的录屏工具却十分好用。可以看得出，社区出品的插件跟官方出品的插件质量上还是存在着一些差距。截图是一个很常用的功能，希望 uTools 官方能出手优化一下。</p>\n</blockquote>\n<h2>软件的使用演示</h2>\n",
+      "date_published": "2024-11-08T03:35:15.000Z",
+      "date_modified": "2024-11-08T03:35:15.000Z",
+      "authors": [],
+      "tags": [
+        "工具"
+      ]
+    },
+    {
+      "title": "Web 前端",
+      "url": "https://yuchunmao.github.io/blog/developer/front_end_web/",
+      "id": "https://yuchunmao.github.io/blog/developer/front_end_web/",
+      "summary": "Web 前端 Web 前端开发",
+      "content_html": "\n<div class=\"hint-container info\">\n<p class=\"hint-container-title\">Web 前端开发</p>\n</div>\n",
+      "date_published": "2024-11-08T03:35:15.000Z",
+      "date_modified": "2024-11-08T03:35:15.000Z",
+      "authors": [],
+      "tags": [
+        "前端"
+      ]
+    },
+    {
+      "title": "CommonJS 和 ES6 Modules",
+      "url": "https://yuchunmao.github.io/blog/developer/front_end_web/es6_modules.html",
+      "id": "https://yuchunmao.github.io/blog/developer/front_end_web/es6_modules.html",
+      "summary": "CommonJS 和 ES6 Modules 注意 该文档有待补充和完善 https://zhuanlan.zhihu.com/p/27644026 要学好 webpack,必须熟悉 JS 模块规范 \\ CommonJS 规范: 寻找 node_modules 如果找不到就逐层向上找,直到根目录找不到就返回错误 ES6 Modules 规范:",
+      "content_html": "\n<div class=\"hint-container warning\">\n<p class=\"hint-container-title\">注意</p>\n<p>该文档有待补充和完善</p>\n</div>\n<p><a href=\"https://zhuanlan.zhihu.com/p/27644026\" target=\"_blank\" rel=\"noopener noreferrer\">https://zhuanlan.zhihu.com/p/27644026</a></p>\n<p>要学好 webpack,必须熟悉 JS 模块规范 \\</p>\n<p>CommonJS 规范:</p>\n<div class=\"language-js line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"js\" data-title=\"js\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code><span class=\"line\"><span style=\"--shiki-light:#A626A4;--shiki-dark:#C678DD\">function</span><span style=\"--shiki-light:#4078F2;--shiki-dark:#61AFEF\"> isNumber</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">(</span><span style=\"--shiki-light:#383A42;--shiki-light-font-style:inherit;--shiki-dark:#E06C75;--shiki-dark-font-style:italic\">n</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">) {</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#A626A4;--shiki-dark:#C678DD\">  return</span><span style=\"--shiki-light:#0184BC;--shiki-dark:#C678DD\"> typeof</span><span style=\"--shiki-light:#383A42;--shiki-dark:#E06C75\"> n</span><span style=\"--shiki-light:#0184BC;--shiki-dark:#56B6C2\"> ===</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> 'number'</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">;</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">}</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"--shiki-light:#E45649;--shiki-dark:#E5C07B\">module</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">.</span><span style=\"--shiki-light:#E45649;--shiki-dark:#E5C07B\">exports</span><span style=\"--shiki-light:#0184BC;--shiki-dark:#56B6C2\"> =</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\"> {</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#4078F2;--shiki-dark:#61AFEF\">  sum</span><span style=\"--shiki-light:#0184BC;--shiki-dark:#ABB2BF\">:</span><span style=\"--shiki-light:#A626A4;--shiki-dark:#C678DD\"> function</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\"> (</span><span style=\"--shiki-light:#383A42;--shiki-light-font-style:inherit;--shiki-dark:#E06C75;--shiki-dark-font-style:italic\">a</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">, </span><span style=\"--shiki-light:#383A42;--shiki-light-font-style:inherit;--shiki-dark:#E06C75;--shiki-dark-font-style:italic\">b</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">) {</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#A626A4;--shiki-dark:#C678DD\">    if</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\"> (</span><span style=\"--shiki-light:#4078F2;--shiki-dark:#61AFEF\">isNumber</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">(</span><span style=\"--shiki-light:#383A42;--shiki-dark:#E06C75\">a</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">) </span><span style=\"--shiki-light:#0184BC;--shiki-dark:#56B6C2\">&amp;&amp;</span><span style=\"--shiki-light:#4078F2;--shiki-dark:#61AFEF\"> isNumber</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">(</span><span style=\"--shiki-light:#383A42;--shiki-dark:#E06C75\">b</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">)) {</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#A626A4;--shiki-dark:#C678DD\">      return</span><span style=\"--shiki-light:#383A42;--shiki-dark:#E06C75\"> a</span><span style=\"--shiki-light:#0184BC;--shiki-dark:#56B6C2\"> +</span><span style=\"--shiki-light:#383A42;--shiki-dark:#E06C75\"> b</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">;</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">    } </span><span style=\"--shiki-light:#A626A4;--shiki-dark:#C678DD\">else</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\"> {</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#A626A4;--shiki-dark:#C678DD\">      return</span><span style=\"--shiki-light:#986801;--shiki-dark:#D19A66\"> NaN</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">;</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">    }</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">  },</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">};</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><div class=\"language-js line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"js\" data-title=\"js\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code><span class=\"line\"><span style=\"--shiki-light:#A626A4;--shiki-dark:#C678DD\">var</span><span style=\"--shiki-light:#383A42;--shiki-dark:#E06C75\"> mod</span><span style=\"--shiki-light:#0184BC;--shiki-dark:#56B6C2\"> =</span><span style=\"--shiki-light:#4078F2;--shiki-dark:#61AFEF\"> require</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">(</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\">'./index'</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">);</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"--shiki-light:#383A42;--shiki-dark:#E5C07B\">console</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">.</span><span style=\"--shiki-light:#4078F2;--shiki-dark:#61AFEF\">log</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">(</span><span style=\"--shiki-light:#383A42;--shiki-dark:#E5C07B\">mod</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">.</span><span style=\"--shiki-light:#4078F2;--shiki-dark:#61AFEF\">sum</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">(</span><span style=\"--shiki-light:#986801;--shiki-dark:#D19A66\">2</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">, </span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\">'2'</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">)); </span><span style=\"--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic\">// NaN</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#383A42;--shiki-dark:#E5C07B\">console</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">.</span><span style=\"--shiki-light:#4078F2;--shiki-dark:#61AFEF\">log</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">(</span><span style=\"--shiki-light:#383A42;--shiki-dark:#E5C07B\">mod</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">.</span><span style=\"--shiki-light:#4078F2;--shiki-dark:#61AFEF\">sum</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">(</span><span style=\"--shiki-light:#986801;--shiki-dark:#D19A66\">2</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">, </span><span style=\"--shiki-light:#986801;--shiki-dark:#D19A66\">2</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">)); </span><span style=\"--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic\">// 4</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><p>寻找 node_modules 如果找不到就逐层向上找,直到根目录找不到就返回错误</p>\n<h1>ES6 Modules 规范:</h1>\n<div class=\"language-js line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"js\" data-title=\"js\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code><span class=\"line\"><span style=\"--shiki-light:#A626A4;--shiki-dark:#C678DD\">import</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\"> { </span><span style=\"--shiki-light:#E45649;--shiki-dark:#E06C75\">a</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">, </span><span style=\"--shiki-light:#E45649;--shiki-dark:#E06C75\">b</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\"> } </span><span style=\"--shiki-light:#A626A4;--shiki-dark:#C678DD\">from</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> './moduleName'</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">;</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic\">//or</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#A626A4;--shiki-dark:#C678DD\">let</span><span style=\"--shiki-light:#383A42;--shiki-dark:#E06C75\"> a</span><span style=\"--shiki-light:#0184BC;--shiki-dark:#56B6C2\"> =</span><span style=\"--shiki-light:#4078F2;--shiki-dark:#61AFEF\"> require</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">(</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\">'moduleName'</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">);</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><div class=\"language-js line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"js\" data-title=\"js\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code><span class=\"line\"><span style=\"--shiki-light:#A626A4;--shiki-dark:#C678DD\">export</span><span style=\"--shiki-light:#A626A4;--shiki-dark:#C678DD\"> const</span><span style=\"--shiki-light:#986801;--shiki-dark:#E5C07B\"> PI</span><span style=\"--shiki-light:#0184BC;--shiki-dark:#56B6C2\"> =</span><span style=\"--shiki-light:#986801;--shiki-dark:#D19A66\"> 3.14</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#A626A4;--shiki-dark:#C678DD\">export</span><span style=\"--shiki-light:#A626A4;--shiki-dark:#C678DD\"> let</span><span style=\"--shiki-light:#383A42;--shiki-dark:#E06C75\"> radius</span><span style=\"--shiki-light:#0184BC;--shiki-dark:#56B6C2\"> =</span><span style=\"--shiki-light:#986801;--shiki-dark:#D19A66\"> 5</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#A626A4;--shiki-dark:#C678DD\">export</span><span style=\"--shiki-light:#A626A4;--shiki-dark:#C678DD\"> let</span><span style=\"--shiki-light:#4078F2;--shiki-dark:#61AFEF\"> getArea</span><span style=\"--shiki-light:#0184BC;--shiki-dark:#56B6C2\"> =</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\"> (</span><span style=\"--shiki-light:#383A42;--shiki-light-font-style:inherit;--shiki-dark:#E06C75;--shiki-dark-font-style:italic\">r</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">) </span><span style=\"--shiki-light:#A626A4;--shiki-dark:#C678DD\">=&gt;</span><span style=\"--shiki-light:#383A42;--shiki-dark:#E06C75\"> r</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div>",
+      "date_published": "2024-11-08T03:35:15.000Z",
+      "date_modified": "2024-11-08T03:35:15.000Z",
+      "authors": [],
+      "tags": [
+        "前端"
+      ]
+    },
+    {
+      "title": "npm 常用命令",
+      "url": "https://yuchunmao.github.io/blog/developer/front_end_web/npm.html",
+      "id": "https://yuchunmao.github.io/blog/developer/front_end_web/npm.html",
+      "summary": "npm 常用命令 注意 该文档有待补充和完善 阿里巴巴开源镜像站 https://developer.aliyun.com/mirror/ npm 镜像站 http://www.npmmirror.com/ Linux 设置本地代理 一些其它指令",
+      "content_html": "\n<div class=\"hint-container warning\">\n<p class=\"hint-container-title\">注意</p>\n<p>该文档有待补充和完善</p>\n</div>\n<h2>阿里巴巴开源镜像站</h2>\n<p><a href=\"https://developer.aliyun.com/mirror/\" target=\"_blank\" rel=\"noopener noreferrer\">https://developer.aliyun.com/mirror/</a></p>\n<h2>npm 镜像站</h2>\n<p><a href=\"http://www.npmmirror.com/\" target=\"_blank\" rel=\"noopener noreferrer\">http://www.npmmirror.com/</a></p>\n<h2>Linux 设置本地代理</h2>\n<div class=\"language-bash line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"bash\" data-title=\"bash\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code><span class=\"line\"></span>\n<span class=\"line\"><span style=\"--shiki-light:#A626A4;--shiki-dark:#C678DD\">export</span><span style=\"--shiki-light:#E45649;--shiki-dark:#E06C75\"> ALL_PROXY</span><span style=\"--shiki-light:#383A42;--shiki-dark:#56B6C2\">=</span><span style=\"--shiki-light:#E45649;--shiki-dark:#E06C75\">socks5</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">://</span><span style=\"--shiki-light:#E45649;--shiki-dark:#E06C75\">127</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">.</span><span style=\"--shiki-light:#E45649;--shiki-dark:#E06C75\">0</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">.</span><span style=\"--shiki-light:#E45649;--shiki-dark:#E06C75\">0</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">.</span><span style=\"--shiki-light:#E45649;--shiki-dark:#E06C75\">1</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">:</span><span style=\"--shiki-light:#E45649;--shiki-dark:#E06C75\">10808</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><h2>一些其它指令</h2>\n<div class=\"language-bash line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"bash\" data-title=\"bash\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code><span class=\"line\"></span>\n<span class=\"line\"><span style=\"--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic\">## npm 升级</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#4078F2;--shiki-dark:#61AFEF\">npm</span><span style=\"--shiki-light:#986801;--shiki-dark:#D19A66\"> -g</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> install</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> npm</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic\">## 清除缓存</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#4078F2;--shiki-dark:#61AFEF\">npm</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> cache</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> clean</span><span style=\"--shiki-light:#986801;--shiki-dark:#D19A66\"> --force</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic\">## 卸载</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"--shiki-light:#4078F2;--shiki-dark:#61AFEF\">npm</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> uninstall</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> xxx</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\"> (-g)</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic\">## 查看更新</span></span>\n<span class=\"line\"><span style=\"--shiki-light:#4078F2;--shiki-dark:#61AFEF\">npm</span><span style=\"--shiki-light:#986801;--shiki-dark:#D19A66\"> -g</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> outdated</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic\">## 其它指令</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"--shiki-light:#4078F2;--shiki-dark:#61AFEF\">npm</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> audit</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> fix</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"--shiki-light:#4078F2;--shiki-dark:#61AFEF\">npm</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> audit</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> fix</span><span style=\"--shiki-light:#986801;--shiki-dark:#D19A66\"> --force</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"--shiki-light:#4078F2;--shiki-dark:#61AFEF\">npm</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> audit</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div>",
+      "date_published": "2024-11-08T03:35:15.000Z",
+      "date_modified": "2024-11-08T03:35:15.000Z",
+      "authors": [],
+      "tags": [
+        "前端"
+      ]
+    },
+    {
+      "title": "随笔",
+      "url": "https://yuchunmao.github.io/blog/favorite/essays/",
+      "id": "https://yuchunmao.github.io/blog/favorite/essays/",
+      "summary": "随笔 日常随便写一点东西",
+      "content_html": "\n<div class=\"hint-container info\">\n<p class=\"hint-container-title\">日常随便写一点东西</p>\n</div>\n",
+      "date_published": "1993-02-13T00:00:00.000Z",
+      "date_modified": "2024-11-08T03:35:15.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "链接",
+      "url": "https://yuchunmao.github.io/blog/favorite/links/",
+      "id": "https://yuchunmao.github.io/blog/favorite/links/",
+      "summary": "链接 好的东西应该共享",
+      "content_html": "\n<div class=\"hint-container info\">\n<p class=\"hint-container-title\">好的东西应该共享</p>\n</div>\n",
+      "date_published": "1993-02-13T00:00:00.000Z",
+      "date_modified": "2024-11-08T03:35:15.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "文档",
+      "url": "https://yuchunmao.github.io/blog/favorite/links/document.html",
+      "id": "https://yuchunmao.github.io/blog/favorite/links/document.html",
+      "summary": "文档 常用文档",
+      "content_html": "\n<div class=\"hint-container tip\">\n<p class=\"hint-container-title\">常用文档</p>\n</div>\n<h2></h2>\n",
+      "date_published": "2024-11-08T03:35:15.000Z",
+      "date_modified": "2024-11-08T03:35:15.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "友链",
+      "url": "https://yuchunmao.github.io/blog/favorite/links/friend.html",
+      "id": "https://yuchunmao.github.io/blog/favorite/links/friend.html",
+      "summary": "友链",
+      "content_html": "\n",
+      "date_published": "2024-11-08T03:35:15.000Z",
+      "date_modified": "2024-11-08T03:35:15.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "在线工具",
+      "url": "https://yuchunmao.github.io/blog/favorite/links/tools.html",
+      "id": "https://yuchunmao.github.io/blog/favorite/links/tools.html",
+      "summary": "在线工具 好用的在线工具",
+      "content_html": "\n<div class=\"hint-container tip\">\n<p class=\"hint-container-title\">好用的在线工具</p>\n</div>\n<h2></h2>\n",
+      "date_published": "2024-11-08T03:35:15.000Z",
+      "date_modified": "2024-11-08T03:35:15.000Z",
+      "authors": [],
+      "tags": []
+    }
+  ]
+}
