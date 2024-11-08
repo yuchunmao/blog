@@ -11,13 +11,10 @@ export default defineUserConfig({
     '@components': path.resolve(__dirname, 'components'),
     '@src': SrcPath,
   },
-
-  dest: 'dist',
-  host: '0.0.0.0',
-  port: 9451,
   base: '/blog/',
   lang: 'zh-CN',
-  plugins: [],
+  title: "个人博客",
+  description: "鱼的个人博客",
 
   theme,
   // Enable it with pwa
