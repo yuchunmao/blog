@@ -6,8 +6,8 @@
     <link>https://yuchunmao.github.io/blog/</link>
     <description>鱼的个人博客</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 08 Nov 2024 10:30:47 GMT</pubDate>
-    <lastBuildDate>Fri, 08 Nov 2024 10:30:47 GMT</lastBuildDate>
+    <pubDate>Fri, 08 Nov 2024 11:35:31 GMT</pubDate>
+    <lastBuildDate>Fri, 08 Nov 2024 11:35:31 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -15,11 +15,32 @@
       <url>https://yuchunmao.github.io/blog/hero.jpeg</url>
       <link>https://yuchunmao.github.io/blog/</link>
     </image>
-    <category>骑行</category>
     <category>前端</category>
+    <category>骑行</category>
     <category>developer</category>
     <category>博文</category>
     <category>工具</category>
+    <item>
+      <title>前端</title>
+      <link>https://yuchunmao.github.io/blog/developer/1Web/</link>
+      <guid>https://yuchunmao.github.io/blog/developer/1Web/</guid>
+      <source url="https://yuchunmao.github.io/blog/rss.xml">前端</source>
+      <description>前端</description>
+      <category>前端</category>
+      <pubDate>Fri, 08 Nov 2024 10:29:25 GMT</pubDate>
+      <content:encoded><![CDATA[
+]]></content:encoded>
+    </item>
+    <item>
+      <title>其他</title>
+      <link>https://yuchunmao.github.io/blog/developer/other/</link>
+      <guid>https://yuchunmao.github.io/blog/developer/other/</guid>
+      <source url="https://yuchunmao.github.io/blog/rss.xml">其他</source>
+      <description>其他</description>
+      <pubDate>Fri, 08 Nov 2024 10:29:25 GMT</pubDate>
+      <content:encoded><![CDATA[
+]]></content:encoded>
+    </item>
     <item>
       <title>运动</title>
       <link>https://yuchunmao.github.io/blog/life/sports/</link>
@@ -44,27 +65,6 @@
       <content:encoded><![CDATA[
 <p><br>
 </p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>前端</title>
-      <link>https://yuchunmao.github.io/blog/developer/1Web/</link>
-      <guid>https://yuchunmao.github.io/blog/developer/1Web/</guid>
-      <source url="https://yuchunmao.github.io/blog/rss.xml">前端</source>
-      <description>前端</description>
-      <category>前端</category>
-      <pubDate>Fri, 08 Nov 2024 10:29:25 GMT</pubDate>
-      <content:encoded><![CDATA[
-]]></content:encoded>
-    </item>
-    <item>
-      <title>其他</title>
-      <link>https://yuchunmao.github.io/blog/developer/other/</link>
-      <guid>https://yuchunmao.github.io/blog/developer/other/</guid>
-      <source url="https://yuchunmao.github.io/blog/rss.xml">其他</source>
-      <description>其他</description>
-      <pubDate>Fri, 08 Nov 2024 10:29:25 GMT</pubDate>
-      <content:encoded><![CDATA[
 ]]></content:encoded>
     </item>
     <item>
@@ -666,19 +666,6 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>生活</title>
-      <link>https://yuchunmao.github.io/blog/life/</link>
-      <guid>https://yuchunmao.github.io/blog/life/</guid>
-      <source url="https://yuchunmao.github.io/blog/rss.xml">生活</source>
-      <description>生活 日常随便写一点东西</description>
-      <pubDate>Fri, 08 Nov 2024 03:35:15 GMT</pubDate>
-      <content:encoded><![CDATA[
-<div class="hint-container info">
-<p class="hint-container-title">日常随便写一点东西</p>
-</div>
-]]></content:encoded>
-    </item>
-    <item>
       <title>开发者</title>
       <link>https://yuchunmao.github.io/blog/developer/</link>
       <guid>https://yuchunmao.github.io/blog/developer/</guid>
@@ -704,6 +691,19 @@
 <div class="hint-container info">
 <p class="hint-container-title">多媒体网络收藏夹</p>
 <p>个人随笔，影视，音乐，相册以及网址链接。</p>
+</div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>生活</title>
+      <link>https://yuchunmao.github.io/blog/life/</link>
+      <guid>https://yuchunmao.github.io/blog/life/</guid>
+      <source url="https://yuchunmao.github.io/blog/rss.xml">生活</source>
+      <description>生活 日常随便写一点东西</description>
+      <pubDate>Fri, 08 Nov 2024 03:35:15 GMT</pubDate>
+      <content:encoded><![CDATA[
+<div class="hint-container info">
+<p class="hint-container-title">日常随便写一点东西</p>
 </div>
 ]]></content:encoded>
     </item>
