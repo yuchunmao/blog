@@ -1,16 +1,40 @@
 import { defineUserConfig } from "vuepress";
-
 import theme from "./theme.js";
+import { getDirname, path } from 'vuepress/utils';
+
+
+const __dirname = getDirname(import.meta.url);
+const SrcPath = path.resolve(__dirname, '../');
 
 export default defineUserConfig({
-  base: "/blog/",
+  alias: {
+    '@components': path.resolve(__dirname, 'components'),
+    '@src': SrcPath,
+  },
 
-  lang: "zh-CN",
-  title: "博客演示",
-  description: "vuepress-theme-hope 的博客演示",
+  dest: 'dist',
+  host: '0.0.0.0',
+  port: 9451,
+  base: '/blog/',
+  temp: '.vscode/.vp-temp',
+  cache: '.vscode/.vp-cache',
+  lang: 'zh-CN',
+  plugins: [],
 
   theme,
-
-  // 和 PWA 一起启用
-  // shouldPrefetch: false,
+  // Enable it with pwa
+  shouldPrefetch: false,
 });
+
+// export default defineUserConfig({
+//   base: "/blog/",
+//
+//   lang: "zh-CN",
+//   title: "博客演示",
+//   description: "vuepress-theme-hope 的博客演示",
+//
+//   theme,
+//
+//   // 和 PWA 一起启用
+//   // shouldPrefetch: false,
+// });

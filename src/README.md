@@ -2,47 +2,40 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+title: 首页
+heroImage: /hero.jpeg
+heroText: 独白
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 简单快乐，理应如此。
+description: 独白,博客,记录,分享
+article: false
+index: false
+containerClass: db-blog-home
 projects:
-  - icon: project
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
+- icon: jiansuo
+  name: 站点地图
+  desc: 本站全部文章索引
+  link: /posts/catalog.html
 
-  - icon: link
-    name: 链接名称
-    desc: 链接详细描述
-    link: https://链接地址
+- icon: developer
+  name: 独白的编程笔记
+  desc: 整理编程的一些技巧相关的东西
+  link: /developer/
 
-  - icon: book
-    name: 书籍名称
-    desc: 书籍详细描述
-    link: https://你的书籍链接
+- icon: gongju
+  name: 工具分享
+  desc: 好用的工具分享与推荐
+  link: /tools/
 
-  - icon: article
-    name: 文章名称
-    desc: 文章详细描述
-    link: https://你的文章链接
+- icon: ganwu
+  name: 随笔
+  desc: 写一些乱七八糟的还没有分类的小作文
+  link: /favorite/essays/
 
-  - icon: friend
-    name: 伙伴名称
-    desc: 伙伴详细介绍
-    link: https://你的伙伴链接
+- icon: youlian
+  name: 友情链接
+  desc: 欢迎交换友链
+  link: /favorite/links/friend
 
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: 自定义项目
-    desc: 自定义详细介绍
-    link: https://你的自定义链接
-
-footer: 自定义你的页脚文字
+footer: true
 ---
-
-这是一个博客主页的案例。
-
-要使用此布局，你应该在页面前端设置 `layout: BlogHome` 和 `home: true`。
-
-相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home.html)。
