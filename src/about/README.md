@@ -2,6 +2,7 @@
 icon: info
 pageInfo: ['Author', 'PageView']
 index: false
+article: false
 permalink: /about/
 ---
 

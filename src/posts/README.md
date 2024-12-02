@@ -8,7 +8,7 @@ category:
   - 博文
 tag:
   - 目录
-
+article: false
 permalink: /posts/
 ---
 

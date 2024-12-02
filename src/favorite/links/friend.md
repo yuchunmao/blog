@@ -1,6 +1,6 @@
 ---
 icon: youlian
-
+article: false
 permalink: /favorite/links/friend.html
 ---
 

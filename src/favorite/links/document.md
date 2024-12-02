@@ -1,7 +1,7 @@
 ---
 icon: docwenjian
 pageInfo: ['Author', 'PageView']
-
+article: false
 permalink: /favorite/links/document.html
 ---
 

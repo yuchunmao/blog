@@ -3,6 +3,8 @@ icon: ganwu
 pageInfo: ['Author', 'PageView']
 index: false
 permalink: /life/
+article: false
+
 ---
 
 # 生活

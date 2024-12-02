@@ -8,7 +8,8 @@ tag:
 
 index: false
 order: 999
-
+article: false
+sticky: 1
 permalink: /developer/other/
 ---
 

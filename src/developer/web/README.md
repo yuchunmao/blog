@@ -1,6 +1,5 @@
 ---
 icon: HTML
-
 pageInfo: ['Author', 'PageView']
 
 category:
@@ -9,12 +8,11 @@ tag:
   - 目录
 
 index: false
-order: 1
-
-permalink: /developer/1Web/
+article: false
+permalink: /developer/web/
 ---
 
 # 前端
 
 
-<Catalog base='/developer/1Web/' />
+<Catalog base='/developer/web/' />

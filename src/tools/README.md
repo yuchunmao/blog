@@ -9,6 +9,7 @@ category:
 tag:
   - 目录
 
+article: false
 permalink: /tools/
 ---
 

@@ -1,6 +1,7 @@
 ---
 pageInfo: ['Author', 'PageView']
 index: false
+article: false
 permalink: /life/sports/
 ---
 

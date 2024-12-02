@@ -3,7 +3,7 @@ tag:
   - 工具
   - 工程化
 
-permalink: /developer/1Web/Engineering/npm.html
+permalink: /developer/web/Engineering/npm.html
 ---
 
 # npm 常用命令

@@ -2,6 +2,7 @@
 icon: link
 pageInfo: ['Author', 'PageView']
 index: false
+article: false
 permalink: /favorite/links/
 ---
 

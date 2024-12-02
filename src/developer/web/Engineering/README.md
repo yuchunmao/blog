@@ -8,11 +8,11 @@ tag:
   - 目录
 
 index: false
-
-permalink: /developer/1Web/Engineering/
+article: false
+permalink: /developer/web/Engineering/
 ---
 
 # 工程化
 
 
-<Catalog base='/developer/1Web/Engineering/' />
+<Catalog base='/developer/web/Engineering/' />

@@ -5,6 +5,7 @@ pageInfo: ['Author', 'PageView']
 date: 1993-02-13
 index: false
 permalink: /favorite/
+article: false
 ---
 
 # 收藏

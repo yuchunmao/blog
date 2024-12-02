@@ -5,9 +5,8 @@ tag:
 - js
 - 手撕代码
 
-order: 1
-
-permalink: /developer/1Web/code_achieve/promise.html
+data: 2022-03-14
+permalink: /developer/web/code_achieve/promise.html
 ---
 
 # Promise实现

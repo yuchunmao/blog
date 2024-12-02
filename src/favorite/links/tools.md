@@ -1,7 +1,7 @@
 ---
 icon: gongju
 pageInfo: ['Author', 'PageView']
-
+article: false
 permalink: /favorite/links/tools.html
 ---
 

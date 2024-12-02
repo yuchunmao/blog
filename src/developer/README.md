@@ -1,15 +1,8 @@
 ---
 icon: developer
-
 pageInfo: ['Author', 'PageView']
-
-category:
-  - developer
-tag:
-  - 目录
-
 index: false
-
+article: false
 permalink: /developer/
 ---
 

@@ -7,7 +7,7 @@ tag:
 
 order: -1
 
-permalink: /developer/1Web/Engineering/es6_modules.html
+permalink: /developer/web/Engineering/es6_modules.html
 ---
 
 # CommonJS 和 ES6 Modules

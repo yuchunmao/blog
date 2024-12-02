@@ -1,5 +1,4 @@
 ---
-icon: HTML
 
 pageInfo: ['Author', 'PageView']
 
@@ -7,13 +6,13 @@ category:
   - 前端
 tag:
   - 目录
-
+article: false
 index: false
 
-permalink: /developer/1Web/code_achieve/
+permalink: /developer/web/code_achieve/
 ---
 
 # 手撕代码
 
 
-<Catalog base='/developer/1Web/code_achieve/' />
+<Catalog base='/developer/web/code_achieve/' />

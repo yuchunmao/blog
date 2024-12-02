@@ -59,12 +59,12 @@ export const zhSidebar = sidebar({
       children: 'structure',
     },
   ],
-  '/developer/1Web/': [
+  '/developer/web/': [
     back_developer,
     {
       text: 'Web前端',
       icon: 'HTML',
-      link: '/developer/1Web/',
+      link: '/developer/web/',
       children: 'structure',
     },
   ],
