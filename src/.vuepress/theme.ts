@@ -21,16 +21,7 @@ export default hopeTheme({
   lastUpdated: false,
   fullscreen: true,
   navbarAutoHide: 'always',
-  pageInfo: [
-    'Author',
-    'Category',
-    'Original',
-    'Tag',
-    'ReadingTime',
-    'Word',
-    'PageView',
-    //..
-  ],
+  pageInfo: false,
   navbarLayout: {
     start: ['Brand'],
     center: [],
@@ -70,15 +61,15 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
-    photoSwipe: false, // 这个插件难用的 一 B
+    photoSwipe: false, // 这个插件难用
     linksCheck: true,
 
-    // comment: {
-    //   provider: 'Waline',
-    //   serverURL: 'https://talk.db.cc',
-    //   copyright: false,
-    //   reaction: true,
-    // },
+    comment: {
+      provider: 'Waline',
+      serverURL: 'https://blog-comment-nmveb104e-yuchunmaos-projects.vercel.app/',
+      copyright: false,
+      reaction: true,
+    },
 
     components: {
       components: ['Badge', 'VPCard', 'BiliBili', 'PDF'],
