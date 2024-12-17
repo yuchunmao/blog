@@ -5,7 +5,7 @@
   <subtitle>鱼的个人博客</subtitle>
   <icon>https://yuchunmao.github.io/blog/hero.jpeg</icon>
   <logo>https://yuchunmao.github.io/blog/hero.jpeg</logo>
-  <updated>2024-12-02T04:29:16.053Z</updated>
+  <updated>2024-12-17T07:39:02.145Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://yuchunmao.github.io/blog/atom.xml"/>
   <link rel="alternate" href="https://yuchunmao.github.io/blog/"/>
@@ -1339,26 +1339,22 @@
     <title type="text">关于本站</title>
     <id>https://yuchunmao.github.io/blog/about/website.html</id>
     <link href="https://yuchunmao.github.io/blog/about/website.html"/>
-    <updated>2024-11-08T10:29:25.000Z</updated>
+    <updated>2024-12-17T07:37:31.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>前言</h2>
 <p>基于 <a href="https://theme-hope.vuejs.press" target="_blank" rel="noopener noreferrer">ThemeHope</a> 这款主题做了一些魔改，包括样式以及功能。每一处修改均以插件的形式进行了封装.</p>
-<h3>顶栏</h3>
-<p>这是顶部的一些下拉菜单，其中画板下拉菜单可以更改主题和全屏浏览。</p>
-<p>还做了一个站点地图页面，可以直接访问本站已经发布的所有文章列表。</p>
-<h3>夜晚模式</h3>
-<p>尝试了很多很多的背景，调色，这一版的夜晚模式我非常满意。在白天模式和夜晚模式使用了不同的动态背景。第一版背景切换非常消耗性能。现在做了优化，现在切换非常流畅，内存占用非常低。</p>]]></summary>
+<h2>缘起</h2>
+<p>作为一个程序员嘛，想来还是得有一个自己的网站，来记录一些自己的学习过程、想法乃至生活。</p>
+<p>有时也会有一些心情不想在朋友圈之类的地方发布，于是，就有了这个博客网站</p>
+<h2>VuePress</h2>
+<p>基于 Vue 渲染引擎，Webpack 的编译和打包，TypeScript，Sass 支持，包括 Vue 组件等。博客的开发体验跟 WebApp<br>
+达成了一致。虽然生态尚不成熟，但是却无法挡住其锋芒。</p>]]></summary>
     <content type="html"><![CDATA[
 <h2>前言</h2>
 <p>基于 <a href="https://theme-hope.vuejs.press" target="_blank" rel="noopener noreferrer">ThemeHope</a> 这款主题做了一些魔改，包括样式以及功能。每一处修改均以插件的形式进行了封装.</p>
-<h3>顶栏</h3>
-<p>这是顶部的一些下拉菜单，其中画板下拉菜单可以更改主题和全屏浏览。</p>
-<p>还做了一个站点地图页面，可以直接访问本站已经发布的所有文章列表。</p>
-<h3>夜晚模式</h3>
-<p>尝试了很多很多的背景，调色，这一版的夜晚模式我非常满意。在白天模式和夜晚模式使用了不同的动态背景。第一版背景切换非常消耗性能。现在做了优化，现在切换非常流畅，内存占用非常低。</p>
 <h2>缘起</h2>
 <p>作为一个程序员嘛，想来还是得有一个自己的网站，来记录一些自己的学习过程、想法乃至生活。</p>
-<p>有时也会有一些心情不想再朋友圈之类的地方发布，于是，就有了这个博客网站</p>
+<p>有时也会有一些心情不想在朋友圈之类的地方发布，于是，就有了这个博客网站</p>
 <h2>VuePress</h2>
 <p>基于 Vue 渲染引擎，Webpack 的编译和打包，TypeScript，Sass 支持，包括 Vue 组件等。博客的开发体验跟 WebApp<br>
 达成了一致。虽然生态尚不成熟，但是却无法挡住其锋芒。</p>
