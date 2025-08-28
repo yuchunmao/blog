@@ -8,6 +8,19 @@
   "favicon": "https://yuchunmao.github.io/blog/hero.jpeg",
   "items": [
     {
+      "title": "分享最近",
+      "url": "https://yuchunmao.github.io/blog/life/other/20250716.html",
+      "id": "https://yuchunmao.github.io/blog/life/other/20250716.html",
+      "summary": "分享最近 最近生活发生天翻地覆的改变。 我离开了杭州，离开了互联网，回到了家乡。 经常有在做一个梦，梦到一个人，现在我回家了终于离她近了，却失去了勇气。",
+      "content_html": "\n<p>最近生活发生天翻地覆的改变。</p>\n<p>我离开了杭州，离开了互联网，回到了家乡。</p>\n<p>经常有在做一个梦，梦到一个人，现在我回家了终于离她近了，却失去了勇气。</p>\n",
+      "date_published": "2025-07-16T15:50:07.000Z",
+      "date_modified": "2025-08-28T03:34:51.000Z",
+      "authors": [],
+      "tags": [
+        "杂谈"
+      ]
+    },
+    {
       "title": "浏览器垃圾回收",
       "url": "https://yuchunmao.github.io/blog/developer/web/browser/%E6%B5%8F%E8%A7%88%E5%99%A8%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6.html",
       "id": "https://yuchunmao.github.io/blog/developer/web/browser/%E6%B5%8F%E8%A7%88%E5%99%A8%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6.html",
@@ -180,11 +193,11 @@
       "title": "关于我",
       "url": "https://yuchunmao.github.io/blog/about/me.html",
       "id": "https://yuchunmao.github.io/blog/about/me.html",
-      "summary": "关于我 独白 我叫『独白』，一名前端程序员。热爱编程，喜欢拥抱新技术，妄图改变世界，企图让世界因我而美好。 关于爱好 挺普通的一个人，没什么特别的爱好，喜欢搞搞技术、玩玩游戏、骑骑车。 关于理想 愿世界和平，愿所有的种子都能开花结果，愿有情人终成眷属，愿好人一生平安。 但愿望终归只是愿望，我唯一能做的事情就是在目之所及之处做到最好。 关于本站 本站采用...",
-      "content_html": "\n<h2>独白</h2>\n<p>我叫『独白』，一名前端程序员。热爱编程，喜欢拥抱新技术，妄图改变世界，企图让世界因我而美好。</p>\n<h2>关于爱好</h2>\n<p>挺普通的一个人，没什么特别的爱好，喜欢搞搞技术、玩玩游戏、骑骑车。</p>\n<h2>关于理想</h2>\n<p>愿世界和平，愿所有的种子都能开花结果，愿有情人终成眷属，愿好人一生平安。</p>\n<p>但愿望终归只是愿望，我唯一能做的事情就是在目之所及之处做到最好。</p>\n<h2>关于本站</h2>\n<p>本站采用<br>\n<a href=\"https://v2.vuepress.vuejs.org\" target=\"_blank\" rel=\"noopener noreferrer\">VuePress</a> 搭建，<br>\n基于主题 <a href=\"https://theme-hope.vuejs.press\" target=\"_blank\" rel=\"noopener noreferrer\">ThemeHope</a> 魔改而成。</p>\n<p>关于更多信息可阅读 <a href=\"/blog/about/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99.html\" target=\"_blank\">关于本站</a></p>\n<p>并且还有一些想法，想要表达的思想和观点等。我不太愿意将这些东西公布在各种公众平台之上，但有些话总要有个地方分享、倾诉，所以我选择了这个站点。</p>\n",
+      "summary": "关于我 独白 我叫『独白』，一名前端程序员。 关于爱好 挺普通的一个人，没什么特别的爱好，喜欢搞搞技术、玩玩游戏、骑骑车。 关于本站 copy了一个博主的项目，时间太久远忘记他本来的网站链接了，如果博主看到可以联留下链接。 本站采用 VuePress 搭建， 基于主题 ThemeHope 魔改而成。 关于更多信息可阅读 并且还有一些想法，想要表达的思想...",
+      "content_html": "\n<h2>独白</h2>\n<p>我叫『独白』，一名前端程序员。</p>\n<h2>关于爱好</h2>\n<p>挺普通的一个人，没什么特别的爱好，喜欢搞搞技术、玩玩游戏、骑骑车。</p>\n<h2>关于本站</h2>\n<p>copy了一个博主的项目，时间太久远忘记他本来的网站链接了，如果博主看到可以联留下链接。</p>\n<p>本站采用<br>\n<a href=\"https://v2.vuepress.vuejs.org\" target=\"_blank\" rel=\"noopener noreferrer\">VuePress</a> 搭建，<br>\n基于主题 <a href=\"https://theme-hope.vuejs.press\" target=\"_blank\" rel=\"noopener noreferrer\">ThemeHope</a> 魔改而成。</p>\n<p>关于更多信息可阅读 <a href=\"/blog/about/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99.html\" target=\"_blank\">关于本站</a></p>\n<p>并且还有一些想法，想要表达的思想和观点等。我不太愿意将这些东西公布在各种公众平台之上，但有些话总要有个地方分享、倾诉，所以我选择了这个站点。</p>\n",
       "image": "https://yuchunmao.github.io/blog/assets/images/cover3.jpg",
       "date_published": "2024-11-08T03:35:15.000Z",
-      "date_modified": "2024-12-02T04:27:45.000Z",
+      "date_modified": "2025-07-16T15:50:07.000Z",
       "authors": [],
       "tags": []
     },
@@ -192,10 +205,10 @@
       "title": "关于本站",
       "url": "https://yuchunmao.github.io/blog/about/website.html",
       "id": "https://yuchunmao.github.io/blog/about/website.html",
-      "summary": "关于本站 前言 基于 ThemeHope 这款主题做了一些魔改，包括样式以及功能。每一处修改均以插件的形式进行了封装. 缘起 作为一个程序员嘛，想来还是得有一个自己的网站，来记录一些自己的学习过程、想法乃至生活。 有时也会有一些心情不想在朋友圈之类的地方发布，于是，就有了这个博客网站 VuePress 基于 Vue 渲染引擎，Webpack 的编译和打...",
-      "content_html": "\n<h2>前言</h2>\n<p>基于 <a href=\"https://theme-hope.vuejs.press\" target=\"_blank\" rel=\"noopener noreferrer\">ThemeHope</a> 这款主题做了一些魔改，包括样式以及功能。每一处修改均以插件的形式进行了封装.</p>\n<h2>缘起</h2>\n<p>作为一个程序员嘛，想来还是得有一个自己的网站，来记录一些自己的学习过程、想法乃至生活。</p>\n<p>有时也会有一些心情不想在朋友圈之类的地方发布，于是，就有了这个博客网站</p>\n<h2>VuePress</h2>\n<p>基于 Vue 渲染引擎，Webpack 的编译和打包，TypeScript，Sass 支持，包括 Vue 组件等。博客的开发体验跟 WebApp<br>\n达成了一致。虽然生态尚不成熟，但是却无法挡住其锋芒。</p>\n<p>缺点是主题和插件稀少，很多东西都得自己手动开发。</p>\n<h2>vuepress-theme-hope</h2>\n<p>自己编写一款主题需要的细节和工作量是巨大的，我并不想投入那么多的时间和精力在这个上面。但是 VuePress 原本的默认主题又太过简陋。</p>\n<p>在找寻许久后，我相中了 <a href=\"https://theme-hope.vuejs.press\" target=\"_blank\" rel=\"noopener noreferrer\">ThemeHope</a> 这款主题，它的作者是 VuePress<br>\n团队的成员，其更新速度和稳定性以及扩展性从基因层面就得到了保证。</p>\n<p>于是基于 Hope 主题进行了一些细微的调教，自己写了一些功能模块，才有了本站当前的模样。</p>\n<p>在这里感谢 <a href=\"https://mrhope.site\" target=\"_blank\" rel=\"noopener noreferrer\">𝓜𝓻.𝓗𝓸𝓹𝓮</a> 为我们带来这么棒的主题及其配套的插件。</p>\n<h2>后续规划</h2>\n<p>有时间搞搞留言功能。</p>\n",
+      "summary": "关于本站 前言 基于 ThemeHope 这款主题做了一些魔改，包括样式以及功能。每一处修改均以插件的形式进行了封装. VuePress 基于 Vue 渲染引擎，Webpack 的编译和打包，TypeScript，Sass 支持，包括 Vue 组件等。博客的开发体验跟 WebApp 达成了一致。虽然生态尚不成熟，但是却无法挡住其锋芒。 缺点是主题和插件...",
+      "content_html": "\n<h2>前言</h2>\n<p>基于 <a href=\"https://theme-hope.vuejs.press\" target=\"_blank\" rel=\"noopener noreferrer\">ThemeHope</a> 这款主题做了一些魔改，包括样式以及功能。每一处修改均以插件的形式进行了封装.</p>\n<h2>VuePress</h2>\n<p>基于 Vue 渲染引擎，Webpack 的编译和打包，TypeScript，Sass 支持，包括 Vue 组件等。博客的开发体验跟 WebApp<br>\n达成了一致。虽然生态尚不成熟，但是却无法挡住其锋芒。</p>\n<p>缺点是主题和插件稀少，很多东西都得自己手动开发。</p>\n<h2>vuepress-theme-hope</h2>\n<p><a href=\"https://theme-hope.vuejs.press\" target=\"_blank\" rel=\"noopener noreferrer\">ThemeHope</a> 这款主题，它的作者是 VuePress 团队的成员，其更新速度和稳定性以及扩展性从基因层面就得到了保证。</p>\n<p>于是基于 Hope 主题进行了一些细微的调教，自己写了一些功能模块，才有了本站当前的模样。</p>\n<p>在这里感谢 <a href=\"https://mrhope.site\" target=\"_blank\" rel=\"noopener noreferrer\">𝓜𝓻.𝓗𝓸𝓹𝓮</a> 为我们带来这么棒的主题及其配套的插件。</p>\n<h2>后续规划</h2>\n<p>有时间搞搞留言功能。</p>\n",
       "date_published": "2024-11-08T03:35:15.000Z",
-      "date_modified": "2024-12-17T07:37:31.000Z",
+      "date_modified": "2025-07-16T15:50:07.000Z",
       "authors": [],
       "tags": []
     },

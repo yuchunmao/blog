@@ -5,14 +5,33 @@
   <subtitle>鱼的个人博客</subtitle>
   <icon>https://yuchunmao.github.io/blog/hero.jpeg</icon>
   <logo>https://yuchunmao.github.io/blog/hero.jpeg</logo>
-  <updated>2024-12-17T07:39:02.145Z</updated>
+  <updated>2025-08-28T03:36:23.802Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://yuchunmao.github.io/blog/atom.xml"/>
   <link rel="alternate" href="https://yuchunmao.github.io/blog/"/>
+  <category term="杂谈"/>
   <category term="前端"/>
   <category term="骑行"/>
   <category term="博文"/>
   <category term="工具"/>
+  <entry>
+    <title type="text">分享最近</title>
+    <id>https://yuchunmao.github.io/blog/life/other/20250716.html</id>
+    <link href="https://yuchunmao.github.io/blog/life/other/20250716.html"/>
+    <updated>2025-08-28T03:34:51.000Z</updated>
+    <summary type="html"><![CDATA[
+<p>最近生活发生天翻地覆的改变。</p>
+<p>我离开了杭州，离开了互联网，回到了家乡。</p>
+<p>经常有在做一个梦，梦到一个人，现在我回家了终于离她近了，却失去了勇气。</p>
+]]></summary>
+    <content type="html"><![CDATA[
+<p>最近生活发生天翻地覆的改变。</p>
+<p>我离开了杭州，离开了互联网，回到了家乡。</p>
+<p>经常有在做一个梦，梦到一个人，现在我回家了终于离她近了，却失去了勇气。</p>
+]]></content>
+    <category term="杂谈"/>
+    <published>2025-07-16T15:50:07.000Z</published>
+  </entry>
   <entry>
     <title type="text">浏览器垃圾回收</title>
     <id>https://yuchunmao.github.io/blog/developer/web/browser/%E6%B5%8F%E8%A7%88%E5%99%A8%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6.html</id>
@@ -1305,28 +1324,24 @@
     <title type="text">关于我</title>
     <id>https://yuchunmao.github.io/blog/about/me.html</id>
     <link href="https://yuchunmao.github.io/blog/about/me.html"/>
-    <updated>2024-12-02T04:27:45.000Z</updated>
+    <updated>2025-07-16T15:50:07.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>独白</h2>
-<p>我叫『独白』，一名前端程序员。热爱编程，喜欢拥抱新技术，妄图改变世界，企图让世界因我而美好。</p>
+<p>我叫『独白』，一名前端程序员。</p>
 <h2>关于爱好</h2>
 <p>挺普通的一个人，没什么特别的爱好，喜欢搞搞技术、玩玩游戏、骑骑车。</p>
-<h2>关于理想</h2>
-<p>愿世界和平，愿所有的种子都能开花结果，愿有情人终成眷属，愿好人一生平安。</p>
-<p>但愿望终归只是愿望，我唯一能做的事情就是在目之所及之处做到最好。</p>
 <h2>关于本站</h2>
+<p>copy了一个博主的项目，时间太久远忘记他本来的网站链接了，如果博主看到可以联留下链接。</p>
 <p>本站采用<br>
 <a href="https://v2.vuepress.vuejs.org" target="_blank" rel="noopener noreferrer">VuePress</a> 搭建，<br>
 基于主题 <a href="https://theme-hope.vuejs.press" target="_blank" rel="noopener noreferrer">ThemeHope</a> 魔改而成。</p>]]></summary>
     <content type="html"><![CDATA[
 <h2>独白</h2>
-<p>我叫『独白』，一名前端程序员。热爱编程，喜欢拥抱新技术，妄图改变世界，企图让世界因我而美好。</p>
+<p>我叫『独白』，一名前端程序员。</p>
 <h2>关于爱好</h2>
 <p>挺普通的一个人，没什么特别的爱好，喜欢搞搞技术、玩玩游戏、骑骑车。</p>
-<h2>关于理想</h2>
-<p>愿世界和平，愿所有的种子都能开花结果，愿有情人终成眷属，愿好人一生平安。</p>
-<p>但愿望终归只是愿望，我唯一能做的事情就是在目之所及之处做到最好。</p>
 <h2>关于本站</h2>
+<p>copy了一个博主的项目，时间太久远忘记他本来的网站链接了，如果博主看到可以联留下链接。</p>
 <p>本站采用<br>
 <a href="https://v2.vuepress.vuejs.org" target="_blank" rel="noopener noreferrer">VuePress</a> 搭建，<br>
 基于主题 <a href="https://theme-hope.vuejs.press" target="_blank" rel="noopener noreferrer">ThemeHope</a> 魔改而成。</p>
@@ -1339,30 +1354,23 @@
     <title type="text">关于本站</title>
     <id>https://yuchunmao.github.io/blog/about/website.html</id>
     <link href="https://yuchunmao.github.io/blog/about/website.html"/>
-    <updated>2024-12-17T07:37:31.000Z</updated>
+    <updated>2025-07-16T15:50:07.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>前言</h2>
 <p>基于 <a href="https://theme-hope.vuejs.press" target="_blank" rel="noopener noreferrer">ThemeHope</a> 这款主题做了一些魔改，包括样式以及功能。每一处修改均以插件的形式进行了封装.</p>
-<h2>缘起</h2>
-<p>作为一个程序员嘛，想来还是得有一个自己的网站，来记录一些自己的学习过程、想法乃至生活。</p>
-<p>有时也会有一些心情不想在朋友圈之类的地方发布，于是，就有了这个博客网站</p>
 <h2>VuePress</h2>
 <p>基于 Vue 渲染引擎，Webpack 的编译和打包，TypeScript，Sass 支持，包括 Vue 组件等。博客的开发体验跟 WebApp<br>
-达成了一致。虽然生态尚不成熟，但是却无法挡住其锋芒。</p>]]></summary>
+达成了一致。虽然生态尚不成熟，但是却无法挡住其锋芒。</p>
+<p>缺点是主题和插件稀少，很多东西都得自己手动开发。</p>]]></summary>
     <content type="html"><![CDATA[
 <h2>前言</h2>
 <p>基于 <a href="https://theme-hope.vuejs.press" target="_blank" rel="noopener noreferrer">ThemeHope</a> 这款主题做了一些魔改，包括样式以及功能。每一处修改均以插件的形式进行了封装.</p>
-<h2>缘起</h2>
-<p>作为一个程序员嘛，想来还是得有一个自己的网站，来记录一些自己的学习过程、想法乃至生活。</p>
-<p>有时也会有一些心情不想在朋友圈之类的地方发布，于是，就有了这个博客网站</p>
 <h2>VuePress</h2>
 <p>基于 Vue 渲染引擎，Webpack 的编译和打包，TypeScript，Sass 支持，包括 Vue 组件等。博客的开发体验跟 WebApp<br>
 达成了一致。虽然生态尚不成熟，但是却无法挡住其锋芒。</p>
 <p>缺点是主题和插件稀少，很多东西都得自己手动开发。</p>
 <h2>vuepress-theme-hope</h2>
-<p>自己编写一款主题需要的细节和工作量是巨大的，我并不想投入那么多的时间和精力在这个上面。但是 VuePress 原本的默认主题又太过简陋。</p>
-<p>在找寻许久后，我相中了 <a href="https://theme-hope.vuejs.press" target="_blank" rel="noopener noreferrer">ThemeHope</a> 这款主题，它的作者是 VuePress<br>
-团队的成员，其更新速度和稳定性以及扩展性从基因层面就得到了保证。</p>
+<p><a href="https://theme-hope.vuejs.press" target="_blank" rel="noopener noreferrer">ThemeHope</a> 这款主题，它的作者是 VuePress 团队的成员，其更新速度和稳定性以及扩展性从基因层面就得到了保证。</p>
 <p>于是基于 Hope 主题进行了一些细微的调教，自己写了一些功能模块，才有了本站当前的模样。</p>
 <p>在这里感谢 <a href="https://mrhope.site" target="_blank" rel="noopener noreferrer">𝓜𝓻.𝓗𝓸𝓹𝓮</a> 为我们带来这么棒的主题及其配套的插件。</p>
 <h2>后续规划</h2>
