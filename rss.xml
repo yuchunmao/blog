@@ -6,8 +6,8 @@
     <link>https://yuchunmao.github.io/blog/</link>
     <description>鱼的个人博客</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 28 Aug 2025 03:44:07 GMT</pubDate>
-    <lastBuildDate>Thu, 28 Aug 2025 03:44:07 GMT</lastBuildDate>
+    <pubDate>Thu, 28 Aug 2025 03:49:05 GMT</pubDate>
+    <lastBuildDate>Thu, 28 Aug 2025 03:49:05 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -20,6 +20,20 @@
     <category>骑行</category>
     <category>博文</category>
     <category>工具</category>
+    <item>
+      <title>写日记能是正常人？</title>
+      <link>https://yuchunmao.github.io/blog/life/other/20250828.html</link>
+      <guid>https://yuchunmao.github.io/blog/life/other/20250828.html</guid>
+      <source url="https://yuchunmao.github.io/blog/rss.xml">写日记能是正常人？</source>
+      <description>写日记能是正常人？ 养乐多貌似长猫藓了，不知道是不是那几次跑出去野猫传染的，得隔离治疗了。 小小尝试，总归白忙活一场。 心安。</description>
+      <category>杂谈</category>
+      <pubDate>Thu, 28 Aug 2025 03:43:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<p>养乐多貌似长猫藓了，不知道是不是那几次跑出去野猫传染的，得隔离治疗了。</p>
+<p>小小尝试，总归白忙活一场。</p>
+<p>心安。</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>分享最近</title>
       <link>https://yuchunmao.github.io/blog/life/other/20250716.html</link>
